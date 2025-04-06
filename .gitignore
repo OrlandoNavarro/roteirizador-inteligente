@@ -1,0 +1,54 @@
+# ⛔ Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.Python
+pip-log.txt
+*.log
+
+# ⛔ FastAPI / Uvicorn
+instance/
+*.db
+*.sqlite3
+
+# ⛔ Node / React / Vite
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.local
+.env.*.local
+
+# ⛔ VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ⛔ System
+.DS_Store
+Thumbs.db
+
+# ⛔ Logs e caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ⛔ Optional: coverage e testes
+htmlcov/
+.tox/
+.coverage
+.cache/
+pytest_cache/
+
+# ⛔ Virtual environments
+.venv/
