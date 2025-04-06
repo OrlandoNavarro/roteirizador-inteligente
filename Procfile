@@ -1,5 +1,1 @@
-.
-├── app/
-│   └── main.py  (contém: app = FastAPI())
-├── requirements.txt
-├── Procfile
+web: uvicorn app.main:app --host 0.0.0.0 --port ${PORT}
