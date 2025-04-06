@@ -31,3 +31,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+🧠 Autor
+Desenvolvido com ❤️ por Orlando & IA
+Contribuições e sugestões são bem-vindas!
