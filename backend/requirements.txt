@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+openpyxl
+geopy
+scikit-learn
+folium
+matplotlib
+python-multipart
+jinja2
+httpx
